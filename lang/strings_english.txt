@@ -1,0 +1,6 @@
+<?php
+$s_plugin_auto_title = 'Auto Add Users';
+$s_plugin_autoadduser_description = 'Add list of users automatically during project creation';
+$s_plugin_autoadduser_configuration = 'Config';
+$s_plugin_autoadduser_config1 = 'List of users with associate right';
+$s_plugin_autoadduser_list_configuration ='Yours configurations : ';
