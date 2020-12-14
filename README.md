@@ -27,4 +27,4 @@ The AutoAddUsers plugin is now available. When you creating a new project, your 
 ## Screenshots & Gif :
 
 Example of configuration : 
-![AutoAddUsersScreen](https://github.com/VirusTwo/AutoAddUsers/blob/master/screenshots/AutoAddUsersPlugin.png)
+![AutoAddUsersScreen](https://github.com/VirusTwo/AutoAddUsers/blob/master/screenshots/AutoAddUsersPlugin.PNG)
